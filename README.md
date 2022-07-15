@@ -9,7 +9,7 @@
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jkirh/Weranres.git)https://heroku.com/deploy?template=
 
 ## 注意事项
 ### heroku上部署v2ray
@@ -218,6 +218,6 @@ export default {
 
 
 
-特别鸣谢：Misaka、rptec、DaoChen6大佬提供脚本、教程和思路
+特别鸣谢
 
 
