@@ -5,7 +5,6 @@
  Heroku搭建教程  https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
 
 
- 讨论群组  https://t.me/herokuvless
 
 ## v2ray-heroku
 
